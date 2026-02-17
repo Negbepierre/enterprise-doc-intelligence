@@ -6,3 +6,15 @@ data/sample_contracts/*EKHOMALOMEN*.pdf
 data/sample_contracts/*Discovering*.pdf
 
 data/sample_contracts/*Birkbeck*.pdf
+
+data/sample_contracts/*.pdf
+
+!data/sample_contracts/1_software_development_agreement.pdf
+
+!data/sample_contracts/2_cloud_services_sla_agreement.pdf
+
+!data/sample_contracts/3_ai_consulting_services_agreement.pdf
+
+!data/sample_contracts/4_data_processing_agreement_gdpr.pdf
+
+!data/sample_contracts/5_vendor_supply_agreement.pdf
