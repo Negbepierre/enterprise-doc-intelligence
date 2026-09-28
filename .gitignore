@@ -18,3 +18,9 @@ data/sample_contracts/*.pdf
 !data/sample_contracts/4_data_processing_agreement_gdpr.pdf
 
 !data/sample_contracts/5_vendor_supply_agreement.pdf
+
+
+#Python bytecode
+__pycache__/
+*.pyc
+
